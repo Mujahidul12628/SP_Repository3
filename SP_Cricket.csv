@@ -1,4 +1,4 @@
-Crick,team_1,team_2,stage,Winner_toss,Toss_descision,time,venue,avg_temperature,best_bowler,bowling_arm,bowling_style,most_individual_wickets,economy,best_bowler_country,best_batter,batting_hand,high_indvidual_scores,strike_rate,best_batter_team,target,target_achieved,Player_of_the_match,Winner
+Cricket,team_1,team_2,stage,Winner_toss,Toss_descision,time,venue,avg_temperature,best_bowler,bowling_arm,bowling_style,most_individual_wickets,economy,best_bowler_country,best_batter,batting_hand,high_indvidual_scores,strike_rate,best_batter_team,target,target_achieved,Player_of_the_match,Winner
 Match_1,Australia,SouthAfrica,Group_stage,Australia,Fielding,afternoon,Abu_Dhabi,30,Josh_Hazlewood,Right,Pacer,2,4.8,Australia,Aiden_Markram,Right,40,111.1,SouthAfrica,119,1,Josh_Hazlewood,Australia
 Match_2,England,Windies,Group_stage,England,Fielding,evening,Dubai,33,Adil_Rashid,Right,Leg_spin,4,0.9,England,Jos_Buttler,Right,24,109.1,England,56,1,Moeen_Ali,England
 Match_3,Srilanka,Bangladesh,Group_stage,Srilanka,Fielding,afternoon,Sharjah,34,Shakib_al_Hassan,Left,Off_spin,2,5.67,Bangladesh,Charith_Asalanka,Left,80,163.2,Srilanka,172,1,Charith_Asalanka,Srilanka
